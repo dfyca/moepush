@@ -162,12 +162,12 @@ export default async function Home() {
             <p className="text-center text-sm text-gray-600 md:text-left">
               Built with 💕 by{" "}
               <a
-                href="https://github.com/beilunyang"
+                href="https://github.com/dfyca"
                 target="_blank"
                 rel="noreferrer"
                 className="font-medium hover:text-blue-500 transition-colors"
               >
-                BeilunYang
+                BiuXin
               </a>
             </p>
           </div>
