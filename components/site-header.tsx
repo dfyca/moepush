@@ -34,7 +34,7 @@ export function SiteHeader({ user, variant = "home", nav }: SiteHeaderProps) {
         <div className="flex items-center space-x-6">
           {variant === "home" && (
             <Link
-              href="https://github.com/beilunyang/moepush"
+              href="https://github.com/dfyca/moepush"
               target="_blank"
               rel="noreferrer"
               className="text-sm font-medium text-gray-600 hover:text-blue-500 transition-colors"
